@@ -65,6 +65,3 @@ node pull.js
 Only collect data being pushed after this server runs.
 Please refer to this sdk https://github.com/epc-blockchain/MQTT-Push-Azure to push data to Azure IoT Hub
 
-### Update SDK version
-
-This section is for updating of the BESC Client SDK, it is still work in progress.
