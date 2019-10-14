@@ -1,0 +1,23 @@
+{
+  "name": "besc-mqtt-integration-develop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node pull.js"
+  },
+  "author": "besc",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/event-hubs": "^2.1.1",
+    "azure-event-hubs": "^0.2.11",
+    "azure-iot-device-mqtt": "^1.11.0",
+    "azure-iothub": "^1.11.0",
+    "besc-ess-nodejs-client": "^1.0.2",
+    "dotenv": "^8.1.0",
+    "fs": "0.0.1-security",
+    "mqtt": "^3.0.0",
+    "openssl-nodejs": "^1.0.5"
+  }
+}
