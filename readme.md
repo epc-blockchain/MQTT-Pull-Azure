@@ -61,7 +61,9 @@ npm install
 node pull.js
 ```
 
-
+### NOTE
+Only collect data being pushed after this server runs.
+Please refer to this sdk https://github.com/epc-blockchain/MQTT-Push-Azure to push data to Azure IoT Hub
 
 ### Update SDK version
 
